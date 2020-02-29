@@ -13,9 +13,9 @@ collections:
   testimonials:
     output: true
     permalink: /testimonials/:path/
-  privacypolicy:
+  legal:
     output: true
-    permalink: /privacypolicy/:path
+    permalink: /legal/:path
 
 defaults:
   - scope:
