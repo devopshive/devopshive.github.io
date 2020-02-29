@@ -67,4 +67,4 @@ If you are a parent or guardian and you are aware that your children have provid
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 **Contact Us**  
-If you have any questions about this Privacy Policy, please contact us: By email: [[mail us]](mail:devopshive@gmail.com)
+If you have any questions about this Privacy Policy, please contact us: By email: [[mail us]](mailto:devopshive@gmail.com)
