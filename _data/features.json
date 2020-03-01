@@ -2,26 +2,26 @@
   {
     "title": "Architecture",
     "description": "Best in class software architects always ready to help define the process for you.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "image": "images/features/architect.svg"
   },
   {
     "title": "Automation",
     "description": "Minimize the human intervention in your process hence minimizing the risks associated.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "image": "images/features/automation.svg"
   },
   {
     "title": "Stack",
     "description": "Get yourself ready for the future with the cutting edge technology stack.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "image": "images/features/stack.svg"
   },
   {
     "title": "Security",
     "description": "Your assets' security is our priority. We ensure it more than anything.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "image": "images/features/security.svg"
   },
   {
     "title": "Assistance & Training",
     "description": "We just don't keep the knowledge to us only. Buzz us anytime if you need any kind of assistance.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "image": "images/features/training.svg"
   }
 ]
