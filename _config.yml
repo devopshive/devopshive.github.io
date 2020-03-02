@@ -15,7 +15,7 @@ collections:
     permalink: /testimonials/:path/
   legal:
     output: true
-    permalink: /legal/:path
+    permalink: /legal/:path/
 
 defaults:
   - scope:
